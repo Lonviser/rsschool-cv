@@ -35,4 +35,15 @@ I believe that my ability to learn and acquire new skills will help me walk this
 
 # Code example:
 
+```
+const printReversedNameBySymbol = (name) => {
+  let i = name.length - 1;
+  while (i >= 0) {
+    console.log(name[i]);
+    i = i - 1;
+  }
+};
+```
+
+
 
