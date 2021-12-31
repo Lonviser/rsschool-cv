@@ -5,11 +5,11 @@
 
 # Contact information:
 
-Phone: +375297381789
+**Phone:** +375297381789
 
-E-mail: ivan.lenkowets@yandex.by
+**E-mail:** ivan.lenkowets@yandex.by
 
-Telegram: @lonviser
+**Telegram:** @lonviser
 
 ****
 
@@ -44,6 +44,22 @@ const printReversedNameBySymbol = (name) => {
   }
 };
 ```
+# Courses:
 
+* HTML and CSS Free coures on the WayUP
+ ![Diploma](https://i.ibb.co/xhR8WNp/W1.png "Diploma")
+* Figma coures on the WayUP
+ ![Diploma2](https://i.ibb.co/9qKbWn8/W2.png "Diploma2")
+* SUMMER BOOTCAMP of Epum
+
+ ![Diploma3](https://i.ibb.co/4JwnXMF/W3.png "Diploma3")
+ 
+ # Languages:
+ 
+ * Russian - Native
+ * Belarusian- Native
+ * Polish - basic
+ * German - basic
+ * English - basic
 
 
