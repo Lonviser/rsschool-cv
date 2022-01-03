@@ -1,1 +1,2 @@
-https://lonviser.github.io/rsschool-cv-html/
+https://lonviser.github.io/rsschool-cv-html/index.html
+
