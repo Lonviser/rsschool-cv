@@ -16,3 +16,15 @@
  I can create corporate sites of different complexity. I like to learn new things and improve myself, now I am studying the development of web-applications with the help of React library. Open to new suggestions.<br>
 
 I believe that my ability to learn and acquire new skills will lead me to become an experienced Frontend Developer.<br>
+
+---
+
+### Skills and Proficiency:
+
+- HTML5, CSS3, SASS
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+- Adobe Photoshop, Figma
+
+---
